@@ -1,0 +1,19 @@
+p {
+    background-color: blueviolet;
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+
+.azul {
+    color: blue;
+    font-size: 40px;
+}
+
+
+#parrafo {
+    background-color: aqua;
+    color: black;
+    font-size: large;
+}
